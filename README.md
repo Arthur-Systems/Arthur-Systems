@@ -1,17 +1,10 @@
 <!--Intro-->
 <h1 align="center">
-  
- <img src="https://cdn.schoolloop.com/uimgcdn/aHR0cHM6Ly9taXNzaW9uLWZ1c2QtY2Euc2Nob29sbG9vcC5jb20vdWltZy9maWxlLzE1MDAxNzg5NzE3NzgvMTQ1NjgyNTI3Njg4OS83NTk2NTAzNTIzNzcwMjIxNDcyLnBuZw==" alt="MSJ Logo" width="100" height="100">
-  
+<img src="https://cdn.schoolloop.com/uimgcdn/aHR0cHM6Ly9taXNzaW9uLWZ1c2QtY2Euc2Nob29sbG9vcC5jb20vdWltZy9maWxlLzE1MDAxNzg5NzE3NzgvMTQ1NjgyNTI3Njg4OS83NTk2NTAzNTIzNzcwMjIxNDcyLnBuZw==" alt="MSJ Logo" width="100" height="100">
     Haichuan(Arthur) Wei
-
-     <img style="vertical-align:middle" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="80">
-  
-  
-     
-  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
 </h1> 
-<p> I am a highly dedicated and hardworking individual who is attending the University Of California, Santa Cruz studying computer science. I play drums for my school's marching band and lead my section. I wish to continue my passion for helping others through education and I hope to one day help make the world a better place. </p><br>
+<p> I am a highly dedicated and hardworking individual who is attending the University Of California, Santa Cruz studying computer science. I play for and lead the percussion section in my school band. I wish to continue my passion for helping others through education and I hope to one day help make the world a better place. </p><br>
 <div align="center">
   <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-Systems&show_icons=true&theme=vue-dark&count_private=true&hide=contribs&hide_border=false"/> </a>
