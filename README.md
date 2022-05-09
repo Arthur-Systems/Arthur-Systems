@@ -4,7 +4,7 @@
     Haichuan(Arthur) Wei
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
 </h1> 
-<p align="center"> I am a highly dedicated and hardworking individual who is currently attending Mission San Jose highschool and is going to the University Of California, Santa Cruz studying computer science in the fall. 🥁 I play for and lead the percussion section in my school's band 🥁. I wish to continue my passion for helping others through education and I hope to one day help make the world a better place. </p><br>
+<p align="center"> I am a highly dedicated and hardworking individual who is currently attending Mission San Jose highschool and is going to the University Of California, Santa Cruz studying computer science in the fall. I play for and lead the percussion section in my school's band 🥁. I wish to continue my passion for helping others through education and I hope to one day help make the world a better place. </p><br>
 <h2> What I'm Doing </h2>
 
 ![Dis][Disstat-shield] ![VS][vsstat-shield] ![Game][gamestat-shield] 
