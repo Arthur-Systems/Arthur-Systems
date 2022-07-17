@@ -4,7 +4,7 @@
     Haichuan(Arthur) Wei
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
 </h1> 
-<p align="center"> Hello! Thank you for checking out my profile. My name is Arthur Wei and I am a student attending the University Of California, Santa Cruz studying computer science. I play drums 🥁, moutain bike, and I love coding. I wish to continue my passion for helping others and I hope to one day help make the world a better place. </p><br>
+<p align="center"> Hello! Thank you for checking out my profile. I am a student attending the University Of California, Santa Cruz studying computer science. I play drums 🥁, moutain bike, and I love coding. I wish to continue my passion for helping others and I hope to one day help make the world a better place. </p><br>
 <h2> What I'm Doing </h2>
 
 ![Dis][disstat-shield] ![VS][vsstat-shield] ![Game][gamestat-shield]
