@@ -1,11 +1,12 @@
 <!--Intro-->
 <h1 align="center">
-<img src="https://cdn.schoolloop.com/uimgcdn/aHR0cHM6Ly9taXNzaW9uLWZ1c2QtY2Euc2Nob29sbG9vcC5jb20vdWltZy9maWxlLzE1MDAxNzg5NzE3NzgvMTQ1NjgyNTI3Njg4OS83NTk2NTAzNTIzNzcwMjIxNDcyLnBuZw==" alt="MSJ Logo" width="100" height="100">
+<img src="https://its.ucsc.edu/images/its-logo2018.png" alt="UCSC ITS Logo" width="100" height="100">
     Haichuan(Arthur) Wei
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
 </h1> 
-<p align="center"> Hello! Thank you for checking out my profile. I am a student attending the University Of California, Santa Cruz studying computer science. I play drums 🥁, moutain bike, and I love coding. I wish to continue my passion for helping others and I hope to one day help make the world a better place. </p><br>
-<h2> What I'm Doing </h2>
+<p align="center"> Hello! Thank you for checking out my profile. Feel free to <a href="https://github.com/Arthur-Systems/Arthur-Systems/edit/main/README.md#-socials-"> contact me </a> if you have any quesions! </br></br>
+    I am a student attending one of the top universities in California, UC Santa Cruz, studying computer science. I wish to continue my passion for helping others and I hope to one day help make the world a better place. </p>
+<h2><em>About</em></h2>
 
 ![Dis][disstat-shield] ![VS][vsstat-shield] ![Game][gamestat-shield]
 
@@ -14,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-Systems&show_icons=true&theme=vue-dark&count_private=true&hide=contribs&hide_border=false"/> </a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Systems&langs_count=6&theme=vue-dark&layout=compact" /></a>
 </div>
-<p align="right"> <small>( <i>credits to <a href="https://github.com/advaith1">Advaith</a> for activity tracking) </small></p>
+<p align="right"<sub><sup>(<i>credits to <a href="https://github.com/advaith1" target="_blank">Advaith</a> for activity tracking)</sub></sup></small></p>
 <h2> Listening to 🎧 </h2>
 
 [![Spotify][spotify-shield]][spotify-url]
