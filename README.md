@@ -4,8 +4,8 @@
     Haichuan(Arthur) Wei
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
 </h1> 
-<p align="center"> Hello! Thank you for checking out my profile. Feel free to <a href="https://github.com/Arthur-Systems/Arthur-Systems/edit/main/README.md#-socials-"> contact me </a> if you have any quesions! </br></br>
-    I am a student attending one of the top universities in California, UC Santa Cruz, studying computer science. I wish to continue my passion for helping others and I hope to one day help make the world a better place. </p>
+<p align="center"> Hello! Thank you for checking out my profile. Feel free to <a href="https://github.com/Arthur-Systems/Arthur-Systems/edit/main/README.md#-socials-"> contact me </a> if you have any questions! </br></br>
+
 <h2><em>About</em></h2>
 
 <!--![Dis][disstat-shield] ![VS][vsstat-shield] ![Game][gamestat-shield]-->
