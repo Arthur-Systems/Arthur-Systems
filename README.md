@@ -8,14 +8,19 @@
 
 <h2><em>About</em></h2>
 
-<!--![Dis][disstat-shield] ![VS][vsstat-shield] ![Game][gamestat-shield]-->
+<div align="center">
+    
+![Dis][disstat-shield] ![VS][vsstat-shield] ![Game][gamestat-shield]
+    
+</div>
 
 <div align="center">
+    
   <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-Systems&show_icons=true&theme=vue-dark&count_private=true&hide=contribs&hide_border=false"/> </a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Systems&langs_count=6&theme=vue-dark&layout=compact" /></a>
 </div>
-<!--<p align="right"<sub><sup>(<i>credits to <a href="https://github.com/advaith1" target="_blank">Advaith</a> for activity tracking)</sub></sup></small></p>-->
+<p align="right"><sub><sup>(<i>credits to <a href="https://github.com/advaith1" target="_blank"> Advaith </a> for activity tracking)</sub></sup></small> </p>
 <h2> Listening to 🎧 </h2>
 
 [![Spotify][spotify-shield]][spotify-url]
