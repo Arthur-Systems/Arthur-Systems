@@ -4,7 +4,7 @@
     Haichuan(Arthur) Wei
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
 </h1> 
-<p align="center"> Hello! Thank you for checking out my profile. Feel free to <a href="https://github.com/Arthur-Systems/Arthur-Systems/edit/main/README.md#-socials-"> contact me </a> if you have any questions! </br></br>
+<p align="center"> Hello! Thank you for checking out my profile. </br></br>
 
 <h2><em>About</em></h2>
 
