@@ -1,7 +1,7 @@
 <!--Intro-->
 <h1 align="center">
 <img src="https://its.ucsc.edu/images/its-logo2018.png" alt="UCSC ITS Logo" width="100" height="100">
-    Haichuan(Arthur) Wei
+    Arthur Wei
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
 </h1> 
 <p align="center"> Hello! Thank you for checking out my profile. </br></br>
