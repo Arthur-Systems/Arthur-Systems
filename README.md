@@ -1,10 +1,10 @@
 <!--Intro-->
 <h1 align="center">
-<img src="https://its.ucsc.edu/images/its-logo2018.png" alt="UCSC ITS Logo" width="100" height="100">
+<!-- <img src="https://its.ucsc.edu/images/its-logo2018.png" alt="UCSC ITS Logo" width="100" height="100"> -->
     Arthur Wei
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100">
+<!--    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100"> -->
 </h1> 
-<p align="center"> Hello! Thank you for checking out my profile. </br></br>
+<p align="center"> Software Developer Based out of the SF Bay Area making a difference in the world. </br></br>
 
 <h2><em>About</em></h2>
 
@@ -19,7 +19,7 @@
   <a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Systems&langs_count=6&theme=vue-dark&layout=compact" /></a>
 </div>
-<p align="right"><sub><sup>(<i>credits to <a href="https://github.com/advaith1" target="_blank"> Advaith </a> for activity tracking)</sub></sup></small> </p>
+<!-- <p align="right"><sub><sup>(<i>credits to <a href="https://github.com/advaith1" target="_blank"> Advaith </a> for activity tracking)</sub></sup></small> </p> -->
 <h2> Listening to 🎧 </h2>
 
 [![Spotify][spotify-shield]][spotify-url]
