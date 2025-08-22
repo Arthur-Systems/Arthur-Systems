@@ -4,7 +4,7 @@
     Arthur Wei
 <!--    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/SDS_UCSantaCruz_RedwoodSlug_WhiteGround.png" alt="MSJ Logo" width="100" height="100"> -->
 </h1> 
-<p align="center"> Hello! Thank you for checking out of github! </br></br>
+
 
 <h2><em>About</em></h2>
 
